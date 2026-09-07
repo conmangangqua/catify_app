@@ -9,7 +9,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/catify_app/releases/download/dev/spectrave_dev.apk",
-        "prod": "https://github.com/conmangangqua/catify_app/releases/download/prod/spectrave_prod.apk"
+        "prod": "https://github.com/conmangangqua/catify_app/releases/download/prod/spectrave_prod.apk",
+        "aab": "https://github.com/conmangangqua/catify_app/releases/download/aab/spectrave.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
