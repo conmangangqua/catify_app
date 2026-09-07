@@ -1,6 +1,25 @@
 {
   "apps": [
     {
+      "id": "spectrave",
+      "name": "Spectrave",
+      "icon": "icons/spectrave.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/catify_app/releases/download/dev/spectrave_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "swipisode",
       "name": "Swipisode",
       "icon": "icons/swipisode.webp",

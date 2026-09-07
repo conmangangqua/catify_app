@@ -2,5 +2,9 @@
   "swipisode": {
     "sha": "4c7539a3a9aa0006c4aed1430e0fc1f7361d403bd6ae222c7c64ddea02b224af",
     "src": "https://github.com/conmangangqua/catify_app/releases/download/dev/swipisode_icon.png"
+  },
+  "spectrave": {
+    "sha": "7185ac57fa78b8407324297805d9536efd93d5b50c6799124c326ec2b9d3be24",
+    "src": "https://github.com/conmangangqua/catify_app/releases/download/dev/spectrave_icon.png"
   }
 }
