@@ -13,7 +13,8 @@
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26090801"
       },
       "store": "",
       "category": "Entertainment",
