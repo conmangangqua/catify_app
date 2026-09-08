@@ -36,7 +36,7 @@
         "aab": "https://github.com/conmangangqua/catify_app/releases/download/aab/swipisode.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26090802",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26090801"
       },
