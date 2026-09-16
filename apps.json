@@ -40,7 +40,7 @@
         "prod": "1.0.1+26091602",
         "aab": "1.0.1+26091602"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.swipisode",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
