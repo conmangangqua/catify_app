@@ -17,7 +17,7 @@
         "prod": "1.0.1+26091401",
         "aab": "1.0.1+26091401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.spectrave",
+      "store": "",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
@@ -38,7 +38,7 @@
       "versions": {
         "dev": "1.0.1+26091602",
         "prod": "1.0.1+26091602",
-        "aab": "1.0.0+26090803"
+        "aab": "1.0.1+26091602"
       },
       "store": "",
       "category": "Entertainment",
