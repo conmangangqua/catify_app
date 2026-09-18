@@ -18,9 +18,9 @@
         "aab": "1.0.1+26091401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.spectrave",
-      "category": "Entertainment",
-      "category_source": "store",
-      "store_updated": "Sep 14, 2026",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -41,8 +41,8 @@
         "aab": "1.0.1+26091602"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.swipisode",
-      "category": "Entertainment",
-      "category_source": "store",
+      "category": null,
+      "category_source": null,
       "store_updated": "Sep 15, 2026",
       "store_version": null
     }
