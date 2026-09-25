@@ -18,10 +18,10 @@
         "aab": "1.0.1+26091401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.spectrave",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": null
+      "store_version": "1.0.2"
     },
     {
       "id": "swipisode",
@@ -41,7 +41,7 @@
         "aab": "1.0.2+26092402"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.swipisode",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
       "store_version": null
