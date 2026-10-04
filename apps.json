@@ -21,7 +21,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": null
+      "store_version": "1.0.2"
     },
     {
       "id": "swipisode",
@@ -44,7 +44,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": null
+      "store_version": "26092402 (1.0.2)"
     }
   ]
 }
