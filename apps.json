@@ -21,7 +21,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "swipisode",
@@ -42,9 +42,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.swipisode",
       "category": "Entertainment",
-      "category_source": "gitlab",
+      "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": "26092402 (1.0.2)"
+      "store_version": null
     }
   ]
 }
