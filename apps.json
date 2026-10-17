@@ -21,7 +21,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": null
+      "store_version": "1.0.2"
     },
     {
       "id": "swipisode",
@@ -36,7 +36,7 @@
         "aab": "https://github.com/conmangangqua/catify_app/releases/download/aab/swipisode.aab"
       },
       "versions": {
-        "dev": "1.0.2+26092402",
+        "dev": "1.0.3+26101602",
         "prod": "1.0.2+26092402",
         "aab": "1.0.2+26101601"
       },
@@ -44,7 +44,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Oct 16, 2026",
-      "store_version": null
+      "store_version": "1.0.3"
     }
   ]
 }
