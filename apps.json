@@ -21,7 +21,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "swipisode",
@@ -37,14 +37,14 @@
       },
       "versions": {
         "dev": "1.0.3+26101602",
-        "prod": "1.0.2+26092402",
+        "prod": "1.0.3+26101602",
         "aab": "1.0.2+26101601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.swipisode",
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Oct 16, 2026",
-      "store_version": "1.0.3"
+      "store_version": null
     }
   ]
 }
